@@ -1,5 +1,7 @@
 # guardChallenge
 
+Be sure to `npm install` after cloning down the repository.
+
 ## Challenge Directions 
 
 1. On the login page, create a username and password form with a login button. 
